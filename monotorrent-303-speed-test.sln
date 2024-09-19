@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedTest.Net462", "SpeedTest.Net462\SpeedTest.Net462.csproj", "{778E2749-AAC1-4905-AC3C-F7ED000EBE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedTest.Net8", "SpeedTest.Net8\SpeedTest.Net8.csproj", "{3A423749-D631-490E-976A-37828A518695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{778E2749-AAC1-4905-AC3C-F7ED000EBE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778E2749-AAC1-4905-AC3C-F7ED000EBE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778E2749-AAC1-4905-AC3C-F7ED000EBE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778E2749-AAC1-4905-AC3C-F7ED000EBE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A423749-D631-490E-976A-37828A518695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A423749-D631-490E-976A-37828A518695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A423749-D631-490E-976A-37828A518695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A423749-D631-490E-976A-37828A518695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
